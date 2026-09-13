@@ -1,1 +1,1 @@
-# A simple calculator website
+# A Simple Calculator Website
